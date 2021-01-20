@@ -1,0 +1,13 @@
+C:\Users\User\Documents\BlackJack21\BlackJack21\bin\Debug\netcoreapp3.1\BlackJack21.exe
+C:\Users\User\Documents\BlackJack21\BlackJack21\bin\Debug\netcoreapp3.1\BlackJack21.deps.json
+C:\Users\User\Documents\BlackJack21\BlackJack21\bin\Debug\netcoreapp3.1\BlackJack21.runtimeconfig.json
+C:\Users\User\Documents\BlackJack21\BlackJack21\bin\Debug\netcoreapp3.1\BlackJack21.runtimeconfig.dev.json
+C:\Users\User\Documents\BlackJack21\BlackJack21\bin\Debug\netcoreapp3.1\BlackJack21.dll
+C:\Users\User\Documents\BlackJack21\BlackJack21\bin\Debug\netcoreapp3.1\BlackJack21.pdb
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.csprojAssemblyReference.cache
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.AssemblyInfoInputs.cache
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.AssemblyInfo.cs
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.dll
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.pdb
+C:\Users\User\Documents\BlackJack21\BlackJack21\obj\Debug\netcoreapp3.1\BlackJack21.genruntimeconfig.cache
